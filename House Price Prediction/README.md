@@ -1,3 +1,14 @@
+# Table of Contents
+- [Overview](Overview)
+- [Project Structure](ProjectStructure)
+- [Workflow](Workflow)
+- [Data Exploration and Preprocessing](Data Exploration and Preprocessing)
+- [Feature Engineering](FeatureEngineering)
+- [Modeling](Modeling)
+- [Conclusion](Conclusion)
+- [Conclusion](Conclusion)
+- [Usage](Usage)
+- [Future Improvements](FutureImprovements)
 # House Price Prediction using Machine Learning
 This project involves predicting house prices based on a dataset containing various features such as area, number of bedrooms, Longitude, Latitude etc. 
 
@@ -6,7 +17,7 @@ The project was implemented using Jupyter Notebook to write Python code for data
 
 ### Project Structure
 housing.ipynb: Jupyter Notebook containing the entire code pipeline for the house price prediction project.
-housing.csv: CSV file containing the raw dataset for house price prediction.
+housing_data.csv: CSV file containing the raw dataset for house price prediction.
 
 # Workflow
 ### 1. Data Exploration and Preprocessing
