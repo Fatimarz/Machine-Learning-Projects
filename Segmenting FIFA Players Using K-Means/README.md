@@ -1,8 +1,8 @@
 ## Table of content
 * [Overview](#Overview)
-* [Dataset](Dataset)
-* [Methodology](Methodology)
-* [Feature Selection and Data Preparation](FeatureSelectionandDataPreparation)
+* [Dataset](#Dataset)
+* [Methodology](#Methodology)
+* [Feature Selection and Data Preparation](#FeatureSelectionandDataPreparation)
 * [Dropping Null Values](DroppingNullValues)
 * [DataScaling](DataScaling)
 * [Determining the Optimal Number of Clusters](DeterminingtheOptimalNumberofClusters)
