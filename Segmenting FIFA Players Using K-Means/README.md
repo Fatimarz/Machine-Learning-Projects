@@ -2,7 +2,7 @@
 * [Overview](#Overview)
 * [Dataset](#Dataset)
 * [Methodology](#Methodology)
-* [Feature Selection and Data Preparation](###***FeatureSelectionandDataPreparation***)
+* [Data Loading and Exploration](#data-loading-and-exploration)
 * [Dropping Null Values](DroppingNullValues)
 * [DataScaling](DataScaling)
 * [Determining the Optimal Number of Clusters](DeterminingtheOptimalNumberofClusters)
