@@ -2,7 +2,7 @@
 * [Overview](#Overview)
 * [Dataset](#Dataset)
 * [Methodology](#Methodology)
-* [Data Loading and Exploration](#data-loading-and-exploration)
+* [Data Loading and Exploration](#data-Loading-and-Exploration)
 * [Dropping Null Values](#Dropping-Null-Values)
 * [DataScaling](#Data-Scaling)
 * [Determining the Optimal Number of Clusters](#Determining-the-Optimal-Number-of-Clusters)
