@@ -1,13 +1,13 @@
 # Table of Contents
-- [Overview](###Overview)
-- [Project Structure](###ProjectStructure)
-- [Workflow](###Workflow)
-- [Data Exploration and Preprocessing](###DataExplorationanPreprocessing)
-- [Feature Engineering](###FeatureEngineering)
-- [Modeling](###Modeling)
-- [Conclusion](###Conclusion)
-- [Usage](##Usage)
-- [Future Improvements](###FutureImprovements)
+- [Overview](#Overview)
+- [Project Structure](#Project-Structure)
+- [Workflow](#Workflow)
+- [Data Exploration and Preprocessing](#Data-Exploration-and-Preprocessing)
+- [Feature Engineering](#Feature-Engineering)
+- [Modeling](#Modeling)
+- [Conclusion](#Conclusion)
+- [Usage](#Usage)
+- [Future Improvements](#Future-Improvements)
 # House Price Prediction using Machine Learning
 This project involves predicting house prices based on a dataset containing various features such as area, number of bedrooms, Longitude, Latitude etc. 
 
