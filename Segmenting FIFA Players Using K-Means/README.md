@@ -3,13 +3,13 @@
 * [Dataset](#Dataset)
 * [Methodology](#Methodology)
 * [Data Loading and Exploration](#data-loading-and-exploration)
-* [Dropping Null Values](DroppingNullValues)
-* [DataScaling](DataScaling)
-* [Determining the Optimal Number of Clusters](DeterminingtheOptimalNumberofClusters)
-* [Clustering with K-Means](ClusteringwithK-Means)
-* [Visualization](Visualization)
-* [Results](Results)
-* [Conclusion](Conclusion)
+* [Dropping Null Values](#Dropping-Null-Values)
+* [DataScaling](#Data-Scaling)
+* [Determining the Optimal Number of Clusters](#Determining-the-Optimal-Number-of-Clusters)
+* [Clustering with K-Means](#Clustering-with-K-Means)
+* [Visualization](#Visualization)
+* [Results](#Results)
+* [Conclusion](#Conclusion)
 
 # Overview
 This project performs clustering analysis on FIFA player data using the k-means algorithm. The aim is to segment players into distinct groups based on their performance and market value attributes
