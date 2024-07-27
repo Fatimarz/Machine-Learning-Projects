@@ -1,10 +1,10 @@
 ## Table of contents
 * [Overview](#Overview)
-* [Objectives](Objectives)
-* [Features](Features)
-* [Steps](Steps)
-* [Tools and Technologies](ToolsandTechnologies)
-* [Results](Results)
+* [Objectives](#Objectives)
+* [Features](#Features)
+* [Steps](#Steps)
+* [Tools and Technologies](#ToolsandTechnologies)
+* [Results](#Results)
 
 ## Overview
 This project aims to predict whether an investment will fail or not based on various investor and investment-related features.
