@@ -1,5 +1,5 @@
 ## Table of contents
-* [Overview](Overview)
+* [Overview](##Overview)
 * [Objectives](Objectives)
 * [Features](Features)
 * [Steps](Steps)
