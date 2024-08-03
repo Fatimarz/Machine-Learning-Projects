@@ -4,7 +4,7 @@
 * [Motivation](#Motivation)
 * [Technologies](#Technologies)
 * [Dataset](#Dataset)
-* [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+* [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 * [Model Selection](#ModelSelection)
 * [Deployment](#Deployment)
 * [Setup](#Setup)
