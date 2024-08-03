@@ -5,7 +5,7 @@
 * [Technologies](#Technologies)
 * [Dataset](#Dataset)
 * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-* [Model Selection](#ModelSelection)
+* [Model Selection](#Model-Selection)
 * [Deployment](#Deployment)
 * [Setup](#Setup)
 
