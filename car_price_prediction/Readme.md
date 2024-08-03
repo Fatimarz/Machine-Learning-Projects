@@ -2,7 +2,7 @@
 * [Demo](Demo)
 * [Overview](Overview)
 * [Motivation](Motivation)
-* [Datast](Dataset)
+* [Dataset](Dataset)
 * [Exploratory Data Analysis](ExploratoryDataAnalysis)
 * [Model Selection](ModelSelection)
 * [Deployment](Deployment)
