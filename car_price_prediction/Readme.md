@@ -1,11 +1,14 @@
 # Table of contents
-* [Demo](Demo)
-* [Overview](Overview)
-* [Motivation](Motivation)
-* [Dataset](Dataset)
-* [Exploratory Data Analysis](ExploratoryDataAnalysis)
-* [Model Selection](ModelSelection)
-* [Deployment](Deployment)
+* [Demo](#Demo)
+* [Overview](#Overview)
+* [Motivation](#Motivation)
+* [Technologies](#Technologies)
+* [Dataset](#Dataset)
+* [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+* [Model Selection](#ModelSelection)
+* [Deployment](#Deployment)
+* [Setup](#Setup)
+  
 ## Demo
 <img src="https://github.com/user-attachments/assets/be88382e-d2a2-4454-a4d5-9191bb763d7e" width="500" />
 
@@ -14,6 +17,14 @@ This project demonstrates the end-to-end process of building predictive machine 
 
 ## Motivation
 Accurate car price predictions are crucial for buyers, sellers, and automotive businesses to make informed decisions. Traditional methods of price estimation can be subjective and inconsistent. This project aims to leverage machine learning to provide a data-driven approach for predicting car prices based on various features
+
+## Technologies
+<img src="https://github.com/user-attachments/assets/fa036da1-ccc1-411d-be9c-190344496048" width="290" />
+<img src="https://github.com/user-attachments/assets/95fcf588-367c-43cc-a868-131cb10ddbc5" width="270" />
+<img src="https://github.com/user-attachments/assets/f142d6bb-2bf8-44a5-81fc-ad30edbe4fb6" width="200" />
+<img src="https://github.com/user-attachments/assets/cd5f4c62-8316-4d4d-9e06-df320ed94221" width="270" />
+<img src="https://github.com/user-attachments/assets/a8bf59a2-1438-4084-b931-7cd0b8199d1f" width="270" />
+<img src="https://github.com/user-attachments/assets/3a4697df-f54d-4154-a434-a2fd952135f3" width="250" />
 
 ## Dataset
 Dataset is taken from kaggle click [here ](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) to download the data
@@ -77,10 +88,10 @@ Activate a virtual environment
 Install the required libraries using
 pip install -r requirements.txt
 
-*Train the Model:
+* Train the Model:
 Follow the steps mentioned in car_price_prediction.ipynb to train the model from scratch.
 
-*Run the Flask Application:
+* Run the Flask Application:
 Start the Flask server by running: python app.py
 The application will be accessible at http://localhost:5000 in your web browser.
 
