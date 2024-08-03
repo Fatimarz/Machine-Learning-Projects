@@ -59,7 +59,7 @@ We evaluated the correlation between features and the target variable (Selling_P
 Identified and examined the top 6 features with the most significant impact on car prices. 
 <img src="https://github.com/user-attachments/assets/4a08fc7c-23e8-4feb-a82e-d3a6f7a3c724" width="500" />
 
-### ModelSelection
+### Model Selection
 In this project, we evaluated two machine learning models for predicting car prices: Linear Regression and Random Forest. The performance of these models was assessed based on training and testing scores.
 
 * Linear Regression:
