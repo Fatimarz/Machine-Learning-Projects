@@ -35,17 +35,52 @@ class ModelTrainer:
 
             )
             models={
-                 'random forest': RandomForestRegressor(),
-                 'decision tree': DecisionTreeRegressor(),
-                 'gradient boosting': GradientBoostingRegressor(),
-                 'linear regression': LinearRegression(),
-                 'k-neighbors regressor': KNeighborsRegressor(),
-                 'xgboost regressor': XGBRegressor(),
-                 'cat boosting regressor': CatBoostRegressor(),
-                 'ada boost regressor': AdaBoostRegressor(),
+                 'Random Forest': RandomForestRegressor(),
+                 'Decision Tree': DecisionTreeRegressor(),
+                 'Gradient Boosting': GradientBoostingRegressor(),
+                 'Linear Regression': LinearRegression(),
+                 'XGBRegressor': XGBRegressor(),
+                 'CatBoosting Regressor': CatBoostRegressor(),
+                 'AdaBoost Regressor': AdaBoostRegressor(),
             }
 
-            model_report: dict=evaluate_models(x_train=x_train, y_train=y_train,x_test=x_test,y_test=y_test, models=models)
+            params={
+                'Decision Tree':{
+                    'criterion':['squared_error','friedman_mse','absolute_error','poisson'],
+
+                },
+
+                'Random Forest':{
+                    'n_estimators':[8,16,32,40,50,128,150]
+                },
+
+                'Gradient Boosting':{
+
+                    'learning_rate':[.1,.01,.05,.001],
+                    'subsample':[0.6,0.7,0.8,0.9],
+                    'n_estimators':[8,16,32,40,50,128,150]
+                },
+
+                'Linear Regression':{},
+                'XGBRegressor':{
+                    'learning_rate':[.1,.01,.05,.001],
+                    'n_estimators':[8,16,32,40,50,128,150]
+                },
+
+                'CatBoosting Regressor':{
+                    'depth':[6,8,10],
+                    'learning_rate':[.01,.05,0.1],
+                    'iterations':[30,50,100]
+                },
+
+                'AdaBoost Regressor':{
+                    'learning_rate':[.1,.01,.5,.001],
+                    'n_estimators':[8,16,32,40,50,128,150]
+                }
+
+                }
+
+            model_report: dict=evaluate_models(x_train=x_train, y_train=y_train,x_test=x_test,y_test=y_test, models=models,param=params)
             
             best_model_score=max(sorted(model_report.values()))
 
@@ -67,7 +102,7 @@ class ModelTrainer:
             predicted=best_model.predict(x_test)
             r2_square=r2_score(y_test,predicted)
             return r2_square
-            
+
 
         except Exception as e:
             raise CustomException(e,sys)
