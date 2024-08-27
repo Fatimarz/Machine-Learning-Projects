@@ -29,15 +29,9 @@ pip install -r requirements.txt
 ## Documentation
 For a comprehensive understanding of the model please refer to the following documents:
 
-- [Download High-Level Design (HLD) Document](path/to/hld-document.pdf)
-
-### Low-Level Design (LLD)
-
-The **Low-Level Design (LLD)** document details the implementation specifics, including class diagrams, sequence diagrams, and data flow. It provides a deeper dive into the individual components and their interactions.
-
 - To get more details about data, features and system architecture please go through[HLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/(HLD).docx)
 
-- To get the deeper understanding about individual components and their interactions please go through [LLD]()
+- To get the deeper understanding about individual components and their interactions please go through [LLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/LLD.docx)
 
 
 
