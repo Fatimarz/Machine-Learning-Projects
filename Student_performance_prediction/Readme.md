@@ -3,3 +3,42 @@
 
 - This project aims to predict a student's Math score based on various study-related features 
 - The goal is to provide insights into how these features impact academic performance in mathematics
+  
+
+  ## Dataset
+- Dataset is taken from kaggle, click  [here](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/notebook/stud.csv) to download the data
+  
+
+## 💻 Installation
+### 🔧  Requirements
+
+- Python 3.7+
+- Pandas
+- Numpy
+- Seaborn
+- Scikit-learn
+- Dill
+- Flask
+
+  ### Install the Required Packages
+```
+pip install -r requirements.txt
+
+```
+
+## Documentation
+For a comprehensive understanding of the model please refer to the following documents:
+
+- [Download High-Level Design (HLD) Document](path/to/hld-document.pdf)
+
+### Low-Level Design (LLD)
+
+The **Low-Level Design (LLD)** document details the implementation specifics, including class diagrams, sequence diagrams, and data flow. It provides a deeper dive into the individual components and their interactions.
+
+- [Download Low-Level Design (LLD) Document](path/to/lld-document.pdf)
+
+
+
+
+
+  
