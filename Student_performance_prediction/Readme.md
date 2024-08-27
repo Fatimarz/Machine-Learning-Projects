@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Documentation
 For a comprehensive understanding of the model please refer to the following documents:
 
-- To get more details about data, features and system architecture please go through[HLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/(HLD).docx)
+- To get more details about data, features and system architecture please go through [HLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/(HLD).docx)
 
 - To get the deeper understanding about individual components and their interactions please go through [LLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/LLD.docx)
 
