@@ -35,7 +35,9 @@ For a comprehensive understanding of the model please refer to the following doc
 
 The **Low-Level Design (LLD)** document details the implementation specifics, including class diagrams, sequence diagrams, and data flow. It provides a deeper dive into the individual components and their interactions.
 
-- [Download Low-Level Design (LLD) Document](path/to/lld-document.pdf)
+- To get more details about data, features and system architecture please go through[HLD](https://github.com/Fatimarz/Machine-Learning-Projects/blob/main/Student_performance_prediction/doc/(HLD).docx)
+
+- To get the deeper understanding about individual components and their interactions please go through [LLD]()
 
 
 
