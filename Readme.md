@@ -7,7 +7,9 @@ Welcome to my Machine Learning repository! This repository showcases a collectio
 **Key Features:**
 
 Data: Utilizes a dataset with car attributes for training and testing.
+
 Models: Includes regression algorithms to predict car prices.
+
 Deployment: Deployed as a local web application using Flask.
 
 Technologies Used: Python, scikit-learn, Flask, Pandas, NumPy
@@ -18,6 +20,7 @@ Technologies Used: Python, scikit-learn, Flask, Pandas, NumPy
 **Key Features:**
 
 Data: Analyzed academic performance data to identify trends and factors influencing grades.
+
 Models: Implemented Regression algorithms to predict student outcomes.
 
 Technologies Used: Python, scikit-learn, Pandas, NumPy,Flask
