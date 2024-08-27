@@ -9,6 +9,7 @@ Welcome to my Machine Learning repository! This repository showcases a collectio
 Data: Utilizes a dataset with car attributes for training and testing.
 Models: Includes regression algorithms to predict car prices.
 Deployment: Deployed as a local web application using Flask.
+
 Technologies Used: Python, scikit-learn, Flask, Pandas, NumPy
 
 ## [Student Performance Prediction](https://github.com/Fatimarz/Machine-Learning-Projects/tree/main/Student_performance_prediction)
@@ -18,4 +19,5 @@ Technologies Used: Python, scikit-learn, Flask, Pandas, NumPy
 
 Data: Analyzed academic performance data to identify trends and factors influencing grades.
 Models: Implemented Regression algorithms to predict student outcomes.
+
 Technologies Used: Python, scikit-learn, Pandas, NumPy,Flask
