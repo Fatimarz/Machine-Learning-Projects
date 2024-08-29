@@ -9,6 +9,4 @@ Welcome to my Machine Learning repository! This repository showcases a collectio
 ## [Student Performance Prediction](https://github.com/Fatimarz/Machine-Learning-Projects/tree/main/Student_performance_prediction)
 **Overview:** This project aims to predict student performance based on study features. 
 
-**Key Features:**
-
 **Technologies Used:** Python, scikit-learn, Pandas, NumPy,Flask
